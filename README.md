@@ -12,8 +12,6 @@ O SisEGPN é um sistema integrado de gestão fictício, desenvolvido em Markdown
 O exercício faz parte da disciplina de Gestão de Projetos, Prof. Édison Renato Pereira da Silva.
 
 
-EN:
-
 # Pizzeria EGPN
 Federal University of Rio de Janeiro
 
