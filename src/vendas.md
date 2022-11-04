@@ -1,31 +1,4 @@
------
-Faça seu login e senha:
 
-usuário:
-senha:
-
-
------
-
-
-# Faça seu pedido:
-
-Massa:
-[
-    - Tradicional,
-    - Fina,
-    - [ ] Artesanal
-]
-- Tradicional,
-- Fina,
-- [] Artesanal
-- [] Caseira
-
-Tamanho:
-[
-    Pequeno,
-    Médio,
-    Grande,
-    Gigante
-]
-
+Cliente | Pedido | Valor total
+--- | --- | ---
+José | 2045 | 34,12
